@@ -2,9 +2,9 @@
 ## 1. Identificação
 - **Projeto:** Shortz-App
 - **Versão:** 1.0 (Módulo de Usuários e Autenticação)
-- **Grupo:** [Nome dos integrantes]
-- **Data de criação:** [Data]
-- **Objetivo:** [Descreva o objetivo do plano em 2-3 frases]
+- **Grupo:** [Gabriel Destro e Matheus Fachini]
+- **Data de criação:** [17/03/2026]
+- **Objetivo:** [Entender mais sobre Riscos e Testes]
 ## 2. Escopo
 ### O que SERÁ testado
 - [Feature 1]
